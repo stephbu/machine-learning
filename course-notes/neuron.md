@@ -55,7 +55,9 @@ Outputs response signals if any using axon
 Input parameters are channels of vectors.  Neuron optionally maintains some weighting for channel input.
 Output is ```f(input1.weight1,...inputn.weightn)```
 
+> **Ensemble** : collection of neurons
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzkwOTUxLDIwMzY1NzMzNywtMTQ4NT
-AyMDAzNV19
+eyJoaXN0b3J5IjpbNDE2MDE0NjkzLDE3OTc5MDk1MSwyMDM2NT
+czMzcsLTE0ODUwMjAwMzVdfQ==
 -->
