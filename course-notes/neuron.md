@@ -56,7 +56,9 @@ Input parameters are channels of vectors.  Neuron optionally maintains some weig
 Output is ```f(input1.weight1,...inputn.weightn)```
 
 > **Ensemble** : population of neurons involved in a particular neural computation.  *neural ensemble*
+## Exercises
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY1Mzk1NTgsMTc5NzkwOTUxLDIwMz
-Y1NzMzNywtMTQ4NTAyMDAzNV19
+eyJoaXN0b3J5IjpbLTE1MDk3OTE3OCwtMTUwNjUzOTU1OCwxNz
+k3OTA5NTEsMjAzNjU3MzM3LC0xNDg1MDIwMDM1XX0=
 -->
