@@ -57,13 +57,17 @@ Output is ```f(input1.weight1,...inputn.weightn)```
 
 > **Ensemble** : population of neurons involved in a particular neural computation.  *neural ensemble*
 ## Exercises
-1. t(x,y,z) = node4
+```
 node1 = f1(y)
 node2 = f2(x, f1(y).a1)
 node3 = f3(f1(y).a2, f2(x, f1(y).a1).a3, z)
 node4 = f4(f2(x, f1(y).a1).a4, f3(f1(y).a2, f2(x, f1(y).a1).a3, z).a5)
+t(x,y,z) = node4
+
+t(x,y,z) = f4(f2(x, f1(y).a1).a4, f3(f1(y).a2, f2(x, f1(y).a1).a3, z).a5)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTk1NDg3NiwxNDg5NjM0NDEwLC0xNT
+eyJoaXN0b3J5IjpbMjA3MDkyNzAzMiwxNDg5NjM0NDEwLC0xNT
 A5NzkxNzgsLTE1MDY1Mzk1NTgsMTc5NzkwOTUxLDIwMzY1NzMz
 NywtMTQ4NTAyMDAzNV19
 -->
