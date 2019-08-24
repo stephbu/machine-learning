@@ -53,3 +53,7 @@ Outputs response signals if any using axon
 ### 1.3.1 Networks of primative functions
 
 Input parameters are channels + weights of input for channel
+Output is f(input1.weight1,...inputn.weightn)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0ODUwMjAwMzVdfQ==
+-->
